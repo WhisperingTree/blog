@@ -1,0 +1,106 @@
+[2016-01-15 02:35:39] (ERROR @ /connectors/index.php) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'blog.blog_access_namespace' doesn't exist
+)
+
+[2016-01-15 02:38:09] (ERROR @ /connectors/index.php) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'blog.blog_access_namespace' doesn't exist
+)
+
+[2016-01-15 09:36:14] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__src8e7c63da6f5d987f7a824656e9344dfc_parda0907decd54784ef2d8bbb1ed54b09f_dat1391014996.png
+[2016-01-15 09:36:14] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:14] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__srcc50073ae3576bcd22290672f379e0b1a_parda0907decd54784ef2d8bbb1ed54b09f_dat1391014806.png
+[2016-01-15 09:36:14] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:14] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__src08f887518e79b7e22e0ea4eab2799802_parda0907decd54784ef2d8bbb1ed54b09f_dat1390984860.png
+[2016-01-15 09:36:14] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:14] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__src7e0ab169fc7f3b8b886ec6f467513d96_parda0907decd54784ef2d8bbb1ed54b09f_dat1390918300.png
+[2016-01-15 09:36:14] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:14] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__src644d42400c937f2d66c852eabe399a82_paraab9e4c36232417034b5ae3a29e3dd67_dat1390913128.png
+[2016-01-15 09:36:14] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:14] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__src64ecbb5ebd93ba11959ac7407be6f344_parda0907decd54784ef2d8bbb1ed54b09f_dat1391015266.png
+[2016-01-15 09:36:14] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:14] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__src619bc291e665bddb343779cd40cad6f2_parda0907decd54784ef2d8bbb1ed54b09f_dat1390918364.png
+[2016-01-15 09:36:14] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__src9d8160466ff22eba4bc41e9774acefe9_parda0907decd54784ef2d8bbb1ed54b09f_dat1390918434.png
+[2016-01-15 09:36:14] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:14] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:14] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__src11171c3020c401dd8ceb1f3f5ba4da4a_parda0907decd54784ef2d8bbb1ed54b09f_dat1389272656.png
+[2016-01-15 09:36:14] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:15] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__srca649919b8ccd8ec6bf8fa838c408001b_parda0907decd54784ef2d8bbb1ed54b09f_dat1389272884.png
+[2016-01-15 09:36:15] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:15] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__src4b875b3ff1784b4ce548ead90d06451f_parda0907decd54784ef2d8bbb1ed54b09f_dat1389272930.png
+[2016-01-15 09:36:15] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:15] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__srcf67cdf1e69cbbb56f1cb6d302d590247_parda0907decd54784ef2d8bbb1ed54b09f_dat1389272992.png
+[2016-01-15 09:36:15] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:15] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__srcdd83e9af7c500e8285765e25f9bcff26_parda0907decd54784ef2d8bbb1ed54b09f_dat1389272904.png
+[2016-01-15 09:36:15] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:15] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__srcc053c1b389f961b004f2aced7dd8a043_par22d14badcd078c7e9bf092f0fc36b1d8_dat1391010354.png
+[2016-01-15 09:36:15] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:15] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__src08636745ddcc6ed09db5ba13cc8be4b9_parda0907decd54784ef2d8bbb1ed54b09f_dat1389273342.png
+[2016-01-15 09:36:15] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:15] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__srcea4728441d9458feec0cd526df076741_parda0907decd54784ef2d8bbb1ed54b09f_dat1389273218.png
+[2016-01-15 09:36:15] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:16] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__srcb4551cf92f7b349ea7d9b9a1a198ac21_parc2a2a15f5d9ee3c876272da964d03d9f_dat1389286574.png
+[2016-01-15 09:36:16] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:16] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__src6aaaad5a0c60842d676dcd7946498d77_par9ca49cc3ec4fb12e404383b266ce87ba_dat1390928240.png
+[2016-01-15 09:36:16] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:16] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__srcdc9d4ba501649dde2712ec3baf0ab890_parda0907decd54784ef2d8bbb1ed54b09f_dat1390918226.png
+[2016-01-15 09:36:16] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:16] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__src1b89815a2654df72bcc1c4335edd6b73_parc89c56ef0dd23254b6cc5e7fb362763c_dat1389271134.png
+[2016-01-15 09:36:16] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:16] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__src9d0c545d02d822881873772d3a90eaf5_parda0907decd54784ef2d8bbb1ed54b09f_dat1390908644.png
+[2016-01-15 09:36:16] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:16] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__src092c7c7be82d6d9e521bad9fc1dd71b1_par163730cd536bc8e2c18ea733a56ee4df_dat1389868442.png
+[2016-01-15 09:36:16] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:16] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__srcef70faad3a4afb0c006bbaecfdfb2e19_parda0907decd54784ef2d8bbb1ed54b09f_dat1390908680.png
+[2016-01-15 09:36:16] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:16] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__src51b864c622c45aae22ba0f61257a7217_parda0907decd54784ef2d8bbb1ed54b09f_dat1390908746.png
+[2016-01-15 09:36:16] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:16] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__src90bbea9f965dce921e56a939e466a8d9_parda0907decd54784ef2d8bbb1ed54b09f_dat1390908760.png
+[2016-01-15 09:36:16] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__srcd1410cf54eaf8a8fed9c7f75e0dacce5_parda0907decd54784ef2d8bbb1ed54b09f_dat1390908788.png
+[2016-01-15 09:36:16] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:16] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:16] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__src8cb873cab74a4b27f72e91367466acf6_parda0907decd54784ef2d8bbb1ed54b09f_dat1390908712.png
+[2016-01-15 09:36:16] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:36:16] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__srcc50073ae3576bcd22290672f379e0b1a_par48e135b8486ec16ecc0cd182b36d2daf_dat1391014806.png
+[2016-01-15 09:36:16] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:37:27] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__src7e0ab169fc7f3b8b886ec6f467513d96_par02e0a206ff7a789ce843092dfd25cac2_dat1390918300.png
+[2016-01-15 09:37:27] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-01-15 09:37:32] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: G:\OpenServer\domains\blog.local\core\cache\phpthumb\blog.local__src7e0ab169fc7f3b8b886ec6f467513d96_pard6f9a5aeaaaa032310943a4c4833d51e_dat1390918300.jpeg
+[2016-01-15 09:37:32] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572

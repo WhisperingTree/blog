@@ -1,0 +1,5 @@
+
+	[[$metaBase]]
+	[[$headerBaseAlt]]
+	[[$articleSingleContent]]
+	[[$footerBase]]
